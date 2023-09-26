@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-size: cover;
+}
+iframe {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
